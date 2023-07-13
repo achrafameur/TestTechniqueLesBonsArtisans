@@ -12,6 +12,4 @@
 2. npm i
 3. npm start
 
-# Home Screen
-
-(./frontend/public/Home.png)
+![Home Screen](./frontend/public/Home.png)
