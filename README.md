@@ -11,3 +11,4 @@
 2. npm i
 3. npm start
 
+# Home Screen
